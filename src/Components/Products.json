@@ -1,0 +1,352 @@
+[
+  {
+    "productName": "Smartphone",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnSxLybAqgv993EH0TMmThImF1wcyFsgKuA&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 599.99
+  },
+  {
+    "productName": "Running Shoes",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayoT9JNRgt8hOlWfvV_-gOHzMAIbGC22TMQ&usqp=CAU",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 49.99
+  },
+  {
+    "productName": "Fantasy Novel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08oB-yyaut25whJxJHUVpsPVyZCLWseYjptdnPUWP6-PWKBQa2msQotsvCEhrdIIOaBo&usqp=CAU",
+    "category": "Books",
+    "brand": "Penguin",
+    "price": 12.99
+  },
+  {
+    "productName": "Stand Mixer",
+    "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1704798616/Croma%20Assets/Small%20Appliances/Food%20Processors/Images/218051_0_to71um.png?tr=w-600",
+    "category": "Home & Kitchen",
+    "brand": "KitchenAid",
+    "price": 199.99
+  },
+  {
+    "productName": "Tablet",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJvPD_FgI06UYtyMVLirKTlU4iwMJrzFYzQ&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 1099.99
+  },
+  {
+    "productName": "Football",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PAj7Okj-vlwEyjmJiYs7FooIxOeVfy7AXg&usqp=CAU",
+    "category": "Sports",
+    "brand": "Adidas",
+    "price": 79.99
+  },
+  {
+    "productName": "Movie Box Set",
+    "image": "https://m.media-amazon.com/images/I/712cB5D3YEL._AC_UF1000,1000_QL80_.jpg",
+    "category": "Movies",
+    "brand": "Warner Bros.",
+    "price": 19.99
+  },
+  {
+    "productName": "Coffee Maker",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpzWhplNJr1sVJo8vcTgrmKxpM1obaTDy8fg&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Cuisinart",
+    "price": 129.99
+  },
+  {
+    "productName": "LEGO Set",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHKu2XKv3sdR0Axwk0NAU-vQg4qxV7hUWLQ&usqp=CAU",
+    "category": "Toys",
+    "brand": "LEGO",
+    "price": 59.99
+  },
+  {
+    "productName": "Lipstick",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-RyMQ7RqAIRIZCRe1W1CjqbK-6mG8RWXHuQ&usqp=CAU",
+    "category": "Beauty",
+    "brand": "L'Oréal",
+    "price": 29.99
+  },
+  {
+    "productName": "Headphones",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS3nJ9SwmwUBzY1e6wYY0Bm0pdltRPek71Kw&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 799.99
+  },
+  {
+    "productName": "T-shirt",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy0sGf8PMUzLX7ubnbV4LyoBOpXB0VOsrUdXUoEp8kM4ftIWYpVO1tFInVr9XPHspmyl8&usqp=CAU",
+    "category": "Clothing",
+    "brand": "Adidas",
+    "price": 69.99
+  },
+  {
+    "productName": "Science Fiction Book",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY1ShECwGqe74Rl4m4yYI_iDyXihVNh2hBCg&usqp=CAU",
+    "category": "Books",
+    "brand": "Random House",
+    "price": 14.99
+  },
+  {
+    "productName": "Vacuum Cleaner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvm6gbb-Sda01Vo34tZmUN_VItES1M7H6TA&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Dyson",
+    "price": 399.99
+  },
+  {
+    "productName": "Xbox Console",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMode1YkUx7a0Ayvhtr4G4SXFAedwswGLt-A&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Microsoft",
+    "price": 899.99
+  },
+  {
+    "productName": "Basketball",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJT6vRce3BnD2R9c1bO9TsjYFDqBhX2uSgnsbMW5fQoAEHtCI9B9uVQtXvTPAGrhPh6w&usqp=CAU",
+    "category": "Sports",
+    "brand": "Under Armour",
+    "price": 59.99
+  },
+  {
+    "productName": "Action Movie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtw1o4OpRu7XwrxWaaLOB0MV_tSeaA60rSzw&usqp=CAU",
+    "category": "Movies",
+    "brand": "Paramount Pictures",
+    "price": 24.99
+  },
+  {
+    "productName": "Toaster",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9cHMF1AXgmuFPAoqMm0ZCHjIWbWoSxK_3w&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Hamilton Beach",
+    "price": 59.99
+  },
+  {
+    "productName": "Board Game",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6xpBe9Yu4-IEHyUFe_VgREEBJjG2yaUO4Vw&usqp=CAU",
+    "category": "Toys",
+    "brand": "Hasbro",
+    "price": 39.99
+  },
+  {
+    "productName": "Eyeshadow Palette",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGau1Oo2IagXzcYVQIlXr3pIJROO9RT-3zhQ&usqp=CAU",
+    "category": "Beauty",
+    "brand": "Maybelline",
+    "price": 9.99
+  },
+  {
+    "productName": "TV",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRowCN7TqCVVS5gETckMcVYt3TXlgCmdSqiFg&usqp=CAU",
+    "category": "Electronics",
+    "brand": "LG",
+    "price": 499.99
+  },
+  {
+    "productName": "Sweatshirt",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSGVbTifnbuY_2u1fvn-V8oBDbkGvg7Ogx0w&usqp=CAU",
+    "category": "Clothing",
+    "brand": "Puma",
+    "price": 39.99
+  },
+  {
+    "productName": "Cookbook",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIr6--q7EyYY4nIzMUaerGE-OVFCMsSY1e9g&usqp=CAU",
+    "category": "Books",
+    "brand": "HarperCollins",
+    "price": 16.99
+  },
+  {
+    "productName": "Hand Blender",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxjqe3HAlWxCC4FQGsQhSB_FHpjntpwy5dNjD2TkCW3koGb0a67S65SHykQOuNVlhcSk&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Black+Decker",
+    "price": 79.99
+  },
+  {
+    "productName": "Wireless Speaker",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Ht6oSITAQrgm1KCQ8CKBlJe6z-iw9NAHtA&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Bose",
+    "price": 299.99
+  },
+  {
+    "productName": "Running Shorts",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZZaxksAPsCHJjgNSvl3C6DMqraoPFQkd2w&usqp=CAU",
+    "category": "Sports",
+    "brand": "Nike",
+    "price": 89.99
+  },
+  {
+    "productName": "Romantic Movie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQy_7KANUDFJ8JE3mjUn-Sd-8r32ZDL4cKg&usqp=CAU ",
+    "category": "Movies",
+    "brand": "Universal Pictures",
+    "price": 29.99
+  },
+  {
+    "productName": "Glass Food Storage Set",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBzkw4qLCkPo6J8lUAx0gEB_yiN1C4QwHaE6Hf1MIg14xdWdokIo_z0qnCpZsf1jMCqU&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Pyrex",
+    "price": 24.99
+  },
+  {
+    "productName": "Doll",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Sf1akwU_h08Nh4sDNVhZJSG5L_2UNdwleQ&usqp=CAU",
+    "category": "Toys",
+    "brand": "Mattel",
+    "price": 29.99
+  },
+  {
+    "productName": "Nail Polish",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7Rq6M1209F-DYgPy2y21ETk88g4gxeEgsw&usqp=CAU",
+    "category": "Beauty",
+    "brand": "Revlon",
+    "price": 14.99
+  },
+  {
+    "productName": "Digital Camera",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ_QbbgM1JLzouWD5livPSxs7Nxi6vfvU7UX4TZFCRzcw_qZv5HTdS1XISKWkBKyOIdww&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Panasonic",
+    "price": 399.99
+  },
+  {
+    "productName": "Jeans",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSpASLi4BYPJ5jxaUunA-qXauGXdtPNCwIbQ&usqp=CAU",
+    "category": "Clothing",
+    "brand": "Levi's",
+    "price": 79.99
+  },
+  {
+    "productName": "Mystery Novel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPCutFEZwdCluET31awL9StMI5XPGVOlf4A&usqp=CAU",
+    "category": "Books",
+    "brand": "Simon & Schuster",
+    "price": 11.99
+  },
+  {
+    "productName": "Pressure Cooker",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsq0KrH6STw-3NR829sXQekJWgsZ6nBfISUKh2bSZUJ6BVCxCZbyCT7lXR4Hg-VnRMzI&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Instant Pot",
+    "price": 119.99
+  },
+  {
+    "productName": "Wireless Mouse",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0d75XRynoPo9fsgzd1lDZsY7wm5n0eO2tW76qPFsBh1-jgyE6GhVvPHWkf8QNYfj4YCs&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Logitech",
+    "price": 49.99
+  },
+  {
+    "productName": "Running Jacket",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo4NFPJ9ktkGRr9P4odaEpa6Ajw4m0_8vd9ek7KknKucqKFKxAN5JW79TWq9phib9mRpE&usqp=CAU",
+    "category": "Sports",
+    "brand": "Reebok",
+    "price": 59.99
+  },
+  {
+    "productName": "Comedy Movie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvDBI8MpN5YhhgCytJ3qOHIIGAzsrMyvIIg&usqp=CAU",
+    "category": "Movies",
+    "brand": "20th Century Studios",
+    "price": 19.99
+  },
+  {
+    "productName": "Food Storage Containers",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsG3BhxsT314ptE396jjKdqOXfSSHHdsHUA&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "OXO",
+    "price": 19.99
+  },
+  {
+    "productName": "Construction Toy Set",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYOu5VVV1t8pNmnuTe-jEqHZmxBtyCtdm0ew&usqp=CAU",
+    "category": "Toys",
+    "brand": "Fisher-Price",
+    "price": 49.99
+  },
+  {
+    "productName": "Foundation",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-GTquVP1vOzZBWZWoSyGUsvqPqC5QCvxfbg&usqp=CAU",
+    "category": "Beauty",
+    "brand": "CoverGirl",
+    "price": 7.99
+  },
+  {
+    "productName": "LCD TV",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4zJczCyvJ9X9TH11fIwPpMSge-EXkTx-eZT4-yblIp1E-ChprpaZhz-meXGkOsHyCNn0&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Sharp",
+    "price": 299.99
+  },
+  {
+    "productName": "Dress Shirt",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgoYMotywK3vDlVyJ1mMaPXQE74Gk5QZSY-w&usqp=CAU",
+    "category": "Clothing",
+    "brand": "H&M",
+    "price": 29.99
+  },
+  {
+    "productName": "Thriller Novel",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOIk1jM7vSgrR1gzqHkJHryCM490TZ5EYEQ&usqp=CAU",
+    "category": "Books",
+    "brand": "Macmillan",
+    "price": 17.99
+  },
+  {
+    "productName": "Non-Stick Pan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KChQs5kCYA_jmyrgs5CNadSO4ewTkk9xlA&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "T-fal",
+    "price": 39.99
+  },
+  {
+    "productName": "GPS Navigator",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHM8oV_iroV0vZ3ANX6dlJW3x635a3lniYJw&usqp=CAU",
+    "category": "Electronics",
+    "brand": "Garmin",
+    "price": 199.99
+  },
+  {
+    "productName": "Running Shoes",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqtUkwzEeDk3CXHM0gp6MtiettsTk1IPetFA&usqp=CAU",
+    "category": "Sports",
+    "brand": "New Balance",
+    "price": 69.99
+  },
+  {
+    "productName": "Animated Movie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9EGjVkWmdHC5Z1kFMlrHYp-1eNrB2W0C1A&usqp=CAU",
+    "category": "Movies",
+    "brand": "Disney",
+    "price": 34.99
+  },
+  {
+    "productName": "Food Storage Set",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQoi4gc5wuUzX2TByToGooLvOcRM_JmipU0QLuMHd5tDv_N5G9miMCMrQv_OdAI4eXmc&usqp=CAU",
+    "category": "Home & Kitchen",
+    "brand": "Rubbermaid",
+    "price": 14.99
+  },
+  {
+    "productName": "Foam Dart Gun",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRESZoDm81Dpt9xXS-xdhlzaRbxWzmhqeWCZw&usqp=CAU",
+    "category": "Toys",
+    "brand": "Nerf",
+    "price": 19.99
+  },
+  {
+    "productName": "Moisturizer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmT_ceIeQO21fZGPBANYpZEToC1HclnWYfpw&usqp=CAU",
+    "category": "Beauty",
+    "brand": "Olay",
+    "price": 19.99
+  }
+]

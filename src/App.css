@@ -1,0 +1,24 @@
+.Logout:hover{
+  /* border: 1px solid black; */
+  border: 1px solid black;
+  cursor: pointer;
+  
+}
+
+.icon{
+  font-size: x-large;
+;
+}
+
+.Image:hover{
+  zoom: 1.1;
+  cursor: pointer;
+}
+.cart:hover{
+  background:linear-gradient(to bottom, rgb(237, 237, 243), rgb(138, 134, 134))
+  
+  
+}
+.Delete:hover{
+  border: 1px solid black;
+}
